@@ -1,2 +1,3 @@
 # digitduel
-Digit Duel
+
+For support, please contact dueldigit@mail.com
